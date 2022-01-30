@@ -1,7 +1,11 @@
 future
 emoji
 tzlocal
+arq
 odmantic
+redis
+httpx
+pykeyboard
 lxml
 wget
 gtts
