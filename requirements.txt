@@ -1,6 +1,7 @@
 future
 emoji
 tzlocal
+odmantic
 lxml
 wget
 gtts
